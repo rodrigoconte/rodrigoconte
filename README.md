@@ -2,7 +2,7 @@
 
 I'm a mobile engineer with expertize in iOS platforms and very curious about everything that refers to mobile development and all its possibilities! I'm on my sixth year working with software development and ever leaning and open to help everyone. 
 
-- 🔭 I'm currently working with Front-end Web Development at [Cheesecake Labs](https://cheesecakelabs.com/br/)
+- 🔭 I'm currently working with Mobile Development at [Cheesecake Labs](https://cheesecakelabs.com/br/)
 - 📫 Lets exchange ideas: [LinkedIn](https://www.linkedin.com/in/rodrigo-conte-oliv/)
 
 ## My Stats
