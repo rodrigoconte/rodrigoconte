@@ -8,10 +8,10 @@ I'm a mobile engineer with expertize in iOS platforms and very curious about eve
 ## My Stats
 
 <div>
-<img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocontrex&show_icons=true&langs_count=8&layout=compact&theme=buefy&count_private=true"/>
+<img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoconte&show_icons=true&langs_count=8&layout=compact&theme=buefy&count_private=true"/>
 
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=rocontrex&theme=buefy&?theme=dark&show_icons=true%count_private=true&include_all_commits=true"/>
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=rodrigoconte&theme=buefy&?theme=dark&show_icons=true%count_private=true&include_all_commits=true"/>
 
-<!-- img width="490px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=rocontrex"/ -->
+<!-- img width="490px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=rodrigoconte"/ -->
 </div>
 
